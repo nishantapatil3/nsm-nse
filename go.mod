@@ -1,4 +1,4 @@
-module github.com/cisco-app-networking/nsm-nse
+module github.com/nishantapatil3/nsm-nse
 
 go 1.14
 
